@@ -13,5 +13,5 @@ This project aims to develop a system to distinguish objects such as dogs using 
 
 ## ✨Model that we used
 김민규 - VggNet   
-박민서 - YOLOv5
+박민서 - YOLOv5  
 백송희 - ResNet
