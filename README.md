@@ -13,7 +13,7 @@ This project aims to develop a system to distinguish objects such as dogs using 
 
 ## ✨Model that we used (We did on Google Colaboratory)
 김민규 - VggNet   
-박민서 - YOLOv5  
+박민서 - EfficientNet  
 백송희 - ResNet
 
 ## Result Images
