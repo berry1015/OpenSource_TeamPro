@@ -11,7 +11,12 @@ This project aims to develop a system to distinguish objects such as dogs using 
 [Kaggle-Muffin vs chihuahua](https://www.kaggle.com/datasets/samuelcortinhas/muffin-vs-chihuahua-image-classification) 
 ![image](https://github.com/user-attachments/assets/fcefcfc4-54c5-43aa-8394-cb1c3c6586b6)
 
-## ✨Model that we used
+## ✨Model that we used (We did on Google Colaboratory)
 김민규 - VggNet   
 박민서 - YOLOv5  
 백송희 - ResNet
+
+## Result Images
+
+
+## 
