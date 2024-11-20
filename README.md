@@ -19,6 +19,11 @@ This project aims to develop a system to distinguish objects such as dogs using 
 박민서 - EfficientNet  
 백송희 - ResNet
 
+## 📁Folders and Files that created by each other
+김민규 -   
+박민서 -  📁chi_muf_test / 📄Effi_ChiMuf.ipynb  
+백송희 -  
+
 ## ✨Result Images  
 ### VggNet  
 
