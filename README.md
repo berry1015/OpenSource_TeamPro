@@ -15,14 +15,30 @@ This project aims to develop a system to distinguish objects such as dogs using 
 ![image](https://github.com/user-attachments/assets/fcefcfc4-54c5-43aa-8394-cb1c3c6586b6)
 
 ## ✨Model that we used (We did on Google Colaboratory)
-김민규 - VggNet   
-박민서 - EfficientNet  
-백송희 - ResNet
+#### 김민규 - VggNet   
+#### 박민서 - EfficientNet  
+#### 백송희 - ResNet
 
 ## 📁Folders and Files that created by each other
-김민규 -   
-박민서 -  📁chi_muf_test / 📄Effi_ChiMuf.ipynb  
-백송희 -  
+### 김민규 
+
+### 박민서 
+📁chi_muf_test  
+📄Effi_ChiMuf.ipynb  
+
+### 백송희   
+
+## ❓How to run
+### 김민규    
+
+
+### 박민서  
+I've annotated in ipynb file. Just follow it.   
+
+
+### 백송희  
+
+
 
 ## ✨Result Images  
 ### VggNet  
