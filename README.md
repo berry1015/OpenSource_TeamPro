@@ -17,7 +17,7 @@ This project aims to develop a system to distinguish objects such as dogs using 
 ## ✨Model that we used (We did on Google Colaboratory)
 #### 김민규 - VggNet   
 #### 박민서 - EfficientNet  
-#### 백송희 - ResNet
+#### 백송희 - ResNet50
 
 ## 📁Folders and Files that created by each other
 ### 김민규 
@@ -28,7 +28,8 @@ This project aims to develop a system to distinguish objects such as dogs using 
 ㄴ📄Effi_ChiMuf.ipynb  
 
 ### 백송희   
-ㄴ
+ㄴ📁dataset
+ㄴ📄resnet50_CvsM.ipynb  
 
 
 ## ❓How to run
@@ -40,7 +41,8 @@ I've annotated in ipynb file. Just follow it.
 
 
 ### 백송희  
-
+Follow the code blocks in ipynb file. 
+Don't forget to change dataset link route to yours.
 
 
 ## ✨Result Images  
@@ -51,7 +53,8 @@ I've annotated in ipynb file. Just follow it.
 ![image](https://github.com/user-attachments/assets/16bef31f-8e06-414c-988f-1f47fe283dd5)
 
 
-### ResNet  
+### ResNet (Resnet 50) 
+![image](https://github.com/user-attachments/assets/dd616fae-cf93-4067-a000-199533458ec3)
 
 
 ## 
