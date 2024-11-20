@@ -28,7 +28,7 @@ This project aims to develop a system to distinguish objects such as dogs using 
 ㄴ📄Effi_ChiMuf.ipynb  
 
 ### 백송희   
-ㄴ📁dataset
+ㄴ📁dataset  
 ㄴ📄resnet50_CvsM.ipynb  
 
 
