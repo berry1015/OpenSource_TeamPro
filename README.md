@@ -1,4 +1,7 @@
-# OpenSource_TeamPro
+# OpenSource_TeamProject
+This is team project for 'OpenSource SoftWare' from Gachon University
+
+
 ## ✨Goal of this Project 
 <b>Detecting pictures if it is 'Chihuahua or Muffin'.</b>  
 
@@ -8,7 +11,7 @@ This project aims to develop a system to distinguish objects such as dogs using 
 ## ✨Dataset that we used
 <b>We used Kaggle data to train the model.</b>  
 
-[Kaggle-Muffin vs chihuahua](https://www.kaggle.com/datasets/samuelcortinhas/muffin-vs-chihuahua-image-classification) 
+[Kaggle-Muffin vs chihuahua](https://www.kaggle.com/datasets/samuelcortinhas/muffin-vs-chihuahua-image-classification)   
 ![image](https://github.com/user-attachments/assets/fcefcfc4-54c5-43aa-8394-cb1c3c6586b6)
 
 ## ✨Model that we used (We did on Google Colaboratory)
@@ -16,7 +19,15 @@ This project aims to develop a system to distinguish objects such as dogs using 
 박민서 - EfficientNet  
 백송희 - ResNet
 
-## Result Images
+## ✨Result Images  
+### VggNet  
+
+
+### EfficientNet  
+![image](https://github.com/user-attachments/assets/16bef31f-8e06-414c-988f-1f47fe283dd5)
+
+
+### ResNet  
 
 
 ## 
