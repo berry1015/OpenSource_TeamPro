@@ -1,9 +1,9 @@
-# OpenSource_TeamProject
-This is team project for 'OpenSource SoftWare' from Gachon University
-
+# OpenSource_TeamProject(개조심)
+This is a team project of 'Open Source Software', a major class in the Artificial-Intelligence department of Gachon University.  
+Our team name is '개조심'🐶.  
 
 ## ✨Goal of this Project 
-<b>Detecting pictures if it is 'Chihuahua or Muffin'.</b>  
+<b>Detecting pictures if it is 'Chihuahua🐶 or Muffin🧁'.</b>  
 
 With the development of artificial intelligence technology, the field of image recognition is growing rapidly and is being used in various fields. In particular, the development of openCV technology has achieved groundbreaking results in the field of image recognition, increasing the convenience of daily life and opening new possibilities.
 This project aims to develop a system to distinguish objects such as dogs using openCV technologies. It aims to create a model that can distinguish accurately by effectively learning the characteristics of generally similar objects and the types of dogs.
