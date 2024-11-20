@@ -21,12 +21,15 @@ This project aims to develop a system to distinguish objects such as dogs using 
 
 ## 📁Folders and Files that created by each other
 ### 김민규 
+ㄴ
 
 ### 박민서 
-📁chi_muf_test  
-📄Effi_ChiMuf.ipynb  
+ㄴ📁chi_muf_test  
+ㄴ📄Effi_ChiMuf.ipynb  
 
 ### 백송희   
+ㄴ
+
 
 ## ❓How to run
 ### 김민규    
