@@ -48,6 +48,11 @@ Don't forget to change dataset link route to yours.
 
 ## ✨Result Images  
 ### VggNet  
+![image](https://github.com/user-attachments/assets/d071e9e1-50de-421c-912f-7da89d69e22b)
+![image](https://github.com/user-attachments/assets/354514ea-a68f-41da-b8df-76b305adb605)
+![image](https://github.com/user-attachments/assets/fa6cbaa1-ecfa-4064-a290-62ea8c41f441)
+![image](https://github.com/user-attachments/assets/61f92e6e-0d06-4947-978e-985169ea4784)
+
 
 
 ### EfficientNet  
