@@ -21,7 +21,8 @@ This project aims to develop a system to distinguish objects such as dogs using 
 
 ## 📁Folders and Files that created by each other
 ### 김민규 
-ㄴ
+ㄴ📁dataset  
+ㄴ📄VGGNet_chmuf.ipynb  
 
 ### 박민서 
 ㄴ📁chi_muf_test  
