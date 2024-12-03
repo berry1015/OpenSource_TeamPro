@@ -35,7 +35,7 @@ This project aims to develop a system to distinguish objects such as dogs using 
 
 ## ❓How to run
 ### 김민규    
-
+Please follow the ipynb file
 
 ### 박민서  
 I've annotated in ipynb file. Just follow it.   
