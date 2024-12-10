@@ -15,11 +15,17 @@ This project aims to develop a system to distinguish objects such as dogs using 
 ![image](https://github.com/user-attachments/assets/fcefcfc4-54c5-43aa-8394-cb1c3c6586b6)
 
 ## ✨Model that we used (We did on Google Colaboratory)
+#### 여신영 - Mobilenet
 #### 김민규 - VggNet   
 #### 박민서 - EfficientNet  
 #### 백송희 - ResNet50
 
 ## 📁Folders and Files that created by each other
+
+### 여신영
+ㄴ📁dataset  
+ㄴ📄Mobilenet_CHIMUF.ipynb  
+
 ### 김민규 
 ㄴ📁dataset  
 ㄴ📄VGGNet_chmuf.ipynb  
@@ -34,12 +40,15 @@ This project aims to develop a system to distinguish objects such as dogs using 
 
 
 ## ❓How to run
+
+### 여신영    
+I recommend just Follow the ipynb file 
+
 ### 김민규    
 Please follow the ipynb file
 
 ### 박민서  
 I've annotated in ipynb file. Just follow it.   
-
 
 ### 백송희  
 Follow the code blocks in ipynb file. 
