@@ -73,4 +73,5 @@ Don't forget to change dataset link route to yours.
 
 
 ### MobileNet
-![image](https://github.com/user-attachments/assets/dd616fae-cf93-4067-a000-199533458ec3)
+![image](https://github.com/user-attachments/assets/d3b1c1eb-eba9-4703-9caa-2d8e0a03b842)
+
