@@ -24,7 +24,7 @@ This project aims to develop a system to distinguish objects such as dogs using 
 
 ### 여신영
 ㄴ📁dataset  
-ㄴ📄Mobilenet_CHIMUF.ipynb  
+ㄴ📄Mobilenet_Chi_Muf.ipynb  
 
 ### 김민규 
 ㄴ📁dataset  
@@ -72,4 +72,5 @@ Don't forget to change dataset link route to yours.
 ![image](https://github.com/user-attachments/assets/dd616fae-cf93-4067-a000-199533458ec3)
 
 
-## 
+### MobileNet
+![image](https://github.com/user-attachments/assets/dd616fae-cf93-4067-a000-199533458ec3)
